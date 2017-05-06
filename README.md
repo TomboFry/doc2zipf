@@ -18,7 +18,7 @@ eg. "sorted - Literature Review.docx"
 
 DOCUMENT:
     A valid Word document in .docx format (Word 2007 onwards)
-	You can specify multiple documents if you want.
+    You can specify multiple documents if you want.
 ```
 
 ## Disclaimer
